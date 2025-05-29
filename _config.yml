@@ -1,8 +1,8 @@
 title: My Professional Site
-author: Your Name
+author: Jack Man (or your full name)
 email: your.email@example.com
 description: >
-  Portfolio and CV of Your Name, including selected projects and blog posts.
+  Portfolio and CV of Jack Man, including selected projects and academic work.
 baseurl: "/my-site"
 url: "https://jackman99.github.io"
 theme: minima
